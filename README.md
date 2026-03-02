@@ -23,7 +23,7 @@ Kittens Carousel is a static website application deployed with Apache Web Server
       
       https://docs.aws.amazon.com/linux/al2023/ug/ec2.html#launch-from-cloudformation
         
-      - EC2 Instance type can be configured as `t2.micro`.
+      - EC2 Instance type can be configured as `t3.micro`.
 
       - Instance launched by Cloudformation should be tagged `Web Server of StackName` 
 
